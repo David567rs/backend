@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Archivos comprimidos
+*.zip
+
+# Archivos de configuración de entornos
+.env
+
+# Archivos de lock
+package-lock.json
+
+# Archivos temporales o de log
+*.log
+
+# Archivos de IDE o editor (VSCode en este caso)
+.vscode/
+
+# Archivos específicos de sistemas operativos
+.DS_Store  # MacOS
+Thumbs.db  # Windows
